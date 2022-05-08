@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Test Your C Skills'
+copyright = '2022, Saurav Shandilya'
+author = 'Saurav Shandilya'
 
 release = '0.1'
 version = '0.1.0'
